@@ -2,6 +2,9 @@
 
 A full-stack garment manufacturing system module featuring bill-of-materials recipe multipliers, role-based workflows, real-time piece count verification with traffic-light indicators, and server-enforced quality checkpoints.
 
+* **Live Demo URL:** [https://apparelflow-2jiy.vercel.app](https://apparelflow-2jiy.vercel.app)
+* **GitHub Repository:** [https://github.com/Supuni-Punsarani/apparelflow](https://github.com/Supuni-Punsarani/apparelflow)
+
 ---
 
 ## Getting Started
