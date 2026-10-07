@@ -1,7 +1,7 @@
 # 🛡️ AI Optimization & Engineering Judgment Report
 
 **Project:** ApparelFlow ERP — Cutting Operations & Gatekeeper Verification Terminal  
-**Author:** Software Engineering Intern Candidate  
+**Author:** Supuni Wannigama 
 **Assessment:** Webtezza (Pvt) Ltd Practical Engineering Challenge  
 
 ---
